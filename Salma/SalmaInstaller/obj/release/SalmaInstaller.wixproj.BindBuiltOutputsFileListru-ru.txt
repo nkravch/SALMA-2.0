@@ -1,0 +1,2 @@
+c:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\nsis\SALMA.msi
+c:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\nsis\Salma.wixpdb
