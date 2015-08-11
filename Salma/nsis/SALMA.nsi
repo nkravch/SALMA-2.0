@@ -55,7 +55,7 @@ BrandingText "SoftServe Ltd."
 Page custom ApplicatuionExistsDialog ApplicatuionExistsDialogLeave
 !define MUI_WELCOMEPAGE_TITLE_3LINES 
 !insertmacro MUI_PAGE_WELCOME
-;!insertmacro MUI_PAGE_LICENSE "License.txt"
+!insertmacro MUI_PAGE_LICENSE "License.txt"
 
 !insertmacro MUI_PAGE_COMPONENTS
 !insertmacro MUI_PAGE_INSTFILES
