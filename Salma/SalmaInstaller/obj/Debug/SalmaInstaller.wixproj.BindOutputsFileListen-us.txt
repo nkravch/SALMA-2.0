@@ -1,2 +1,2 @@
-C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.msi
-C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.wixpdb
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.msi
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.wixpdb

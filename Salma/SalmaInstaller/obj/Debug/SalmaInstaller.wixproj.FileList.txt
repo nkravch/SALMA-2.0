@@ -6,11 +6,15 @@ C:\Users\tanya\Documents\Work projects\Salma_new\Salma\SalmaInstaller\bin\Debug\
 C:\Users\tanya\Documents\Work projects\Salma_new\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.wixpdb
 C:\Users\tanya\Documents\Work projects\Salma_new\Salma\SalmaInstaller\bin\Debug\ru-ru\SalmaInstaller.msi
 C:\Users\tanya\Documents\Work projects\Salma_new\Salma\SalmaInstaller\bin\Debug\ru-ru\SalmaInstaller.wixpdb
-obj\Debug\Product.wixobj
 C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.msi
 C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.wixpdb
 C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Debug\ru-ru\SalmaInstaller.msi
 C:\Users\tanya\Documents\Work projects\Salma\SalmaInstaller\bin\Debug\ru-ru\SalmaInstaller.wixpdb
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.msi
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Debug\en-us\SalmaInstaller.wixpdb
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Debug\ru-ru\SalmaInstaller.msi
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Debug\ru-ru\SalmaInstaller.wixpdb
+obj\Debug\Product.wixobj
 obj\Debug\SalmaInstaller.wixproj.BindContentsFileListen-us.txt
 obj\Debug\SalmaInstaller.wixproj.BindOutputsFileListen-us.txt
 obj\Debug\SalmaInstaller.wixproj.BindBuiltOutputsFileListen-us.txt
