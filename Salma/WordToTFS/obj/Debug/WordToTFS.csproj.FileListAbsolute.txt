@@ -45,3 +45,4 @@ C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\WordToTFS\obj\Debug\ru-RU\WordToTF
 C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\WordToTFS\obj\Debug\en-US\WordToTFS.resources.dll
 C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\WordToTFS\obj\Debug\WordToTFS.dll
 C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\WordToTFS\obj\Debug\WordToTFS.pdb
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\WordToTFS\obj\Debug\WordToTFS.csprojResolveAssemblyReference.cache

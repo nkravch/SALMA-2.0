@@ -16,5 +16,5 @@ DEBUG;TRACE
 361085702128
 View\AddDetails.xaml;View\Connect.xaml;View\CreateNew.xaml;View\LinkItem.xaml;View\MatrixReport.xaml;View\ProgressDialog.xaml;View\QueryReport.xaml;View\RequiredFields.xaml;View\StepActionsResult.xaml;View\Style.xaml;
 
-True
+False
 
