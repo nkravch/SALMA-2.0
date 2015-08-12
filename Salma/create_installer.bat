@@ -16,6 +16,4 @@ del nsis\Salma.wixpdb
 ThirdPartyTools\NSIS\makensis.exe nsis\SALMA.nsi
 copy "nsis\Setup.exe" "Build\Setup.exe"
 del nsis\SALMA.msi
-
-
-del nsis\Setup.exe 
+del nsis\Setup.exe

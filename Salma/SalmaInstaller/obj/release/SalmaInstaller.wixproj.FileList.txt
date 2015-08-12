@@ -1,0 +1,6 @@
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Release\SalmaInstaller.msi
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Release\SalmaInstaller.wixpdb
+obj\Release\Product.wixobj
+obj\Release\SalmaInstaller.wixproj.BindContentsFileListnull.txt
+obj\Release\SalmaInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Release\SalmaInstaller.wixproj.BindBuiltOutputsFileListnull.txt

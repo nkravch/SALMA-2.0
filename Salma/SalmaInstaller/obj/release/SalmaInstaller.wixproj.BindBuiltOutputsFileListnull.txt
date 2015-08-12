@@ -1,0 +1,2 @@
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Release\SalmaInstaller.msi
+C:\Users\nkravch\Source\Repos\SALMA-2.0\Salma\SalmaInstaller\bin\Release\SalmaInstaller.wixpdb
